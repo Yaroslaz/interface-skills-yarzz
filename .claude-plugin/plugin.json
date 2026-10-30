@@ -1,0 +1,9 @@
+{
+  "name": "yarzz-interfaces",
+  "description": "Сканируемый интерфейс: края, плотность и различение, визуальное вместо текста, контраст как разница, мобильная адаптация кабинетов.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Yaroslaz"
+  },
+  "repository": "https://github.com/Yaroslaz/interface-skills-yarzz"
+}
